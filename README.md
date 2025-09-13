@@ -17,6 +17,12 @@ Repositori ini adalah jurnal personal dan catatan belajar saya selama mengikuti 
     * SaaS atau Software as a Service menawarkan perangkat lunak aplikasi lengkap yang siap digunakan dan dikelola sepenuhnya oleh penyedia, sepeti aplikasi CRM atau email berbasis cloud.
     Contohnya itu layanan email seperti Gmail, aplikasi kolaborasi seperti Microsoft 365, atau sistem Point-Of-Sale (POS) berbasis cloud.
 
+
+*(Saya coba tools baru HAHAHA for take a screenshot)
+![alt text](image.png)
+
+
+* **Tanggal:** 14 September 2025
 * **Compute Engine, Cloud Storage, dan BigQuery**
     * Mengenal produk-produk inti seperti Compute Engine, Cloud Storage, dan BigQuery.
     * Memahami konsep Projects, Billing, dan IAM untuk manajemen sumber daya.
@@ -24,7 +30,6 @@ Repositori ini adalah jurnal personal dan catatan belajar saya selama mengikuti 
 * **Projects, Billing, dan IAM**
     * Mengenal produk-produk inti seperti Compute Engine, Cloud Storage, dan BigQuery.
     * Memahami konsep Projects, Billing, dan IAM untuk manajemen sumber daya.
-
-* **Tanggal:** 13 September 2025
-* **Poin Penting:**
     * 
+
+
